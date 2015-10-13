@@ -40,4 +40,3 @@ Enjoy your wsgi application that's being served up on port 80.
 The key point is to have your application running on *port 8000* and
 for you to link your application with the name *gunicorn*, if you do that
 then you should have a seamless reverse proxy.
-
